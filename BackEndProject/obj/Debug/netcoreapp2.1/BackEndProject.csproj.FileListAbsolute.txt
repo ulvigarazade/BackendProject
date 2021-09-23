@@ -1,0 +1,178 @@
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.deps.json
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.runtimeconfig.json
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.runtimeconfig.dev.json
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.dll
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csprojAssemblyReference.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.AssemblyInfoInputs.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.AssemblyInfo.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorAssemblyInfo.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorAssemblyInfo.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorTargetAssemblyInfo.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.genruntimeconfig.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.pdb
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csproj.CoreCompileInputs.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.dll
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.pdb
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.Views.dll
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.Views.pdb
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.TagHelpers.input.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.TagHelpers.output.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorCoreGenerate.cache
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorTargetAssemblyInfo.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.Views.pdb
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csproj.CopyComplete
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/bin/Debug/netcoreapp2.1/appsettings.json
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/About/Index.cshtml.g.cs
+C:/Users/Kanan/Desktop/BackEndProject/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Course/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.deps.json
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.runtimeconfig.json
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.runtimeconfig.dev.json
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.dll
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.pdb
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.Views.dll
+/Users/kanan/Desktop/EduHome/BackEndProject/bin/Debug/netcoreapp2.1/BackEndProject.Views.pdb
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csprojAssemblyReference.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.AssemblyInfoInputs.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.AssemblyInfo.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csproj.CoreCompileInputs.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorAssemblyInfo.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorAssemblyInfo.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.TagHelpers.input.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.TagHelpers.output.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorCoreGenerate.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/About/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Course/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Event/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorTargetAssemblyInfo.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.RazorTargetAssemblyInfo.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.Views.pdb
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.dll
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.pdb
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.genruntimeconfig.cache
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/BackEndProject.csproj.CopyComplete
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Teacher/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Blog/Index.cshtml.g.cs
+/Users/kanan/Desktop/EduHome/BackEndProject/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_BlogPartial.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.deps.json
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.json
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.dev.json
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.dll
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.pdb
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.dll
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csprojAssemblyReference.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfoInputs.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfo.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CoreCompileInputs.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.input.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.output.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorCoreGenerate.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BlogPartial.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cs
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.dll
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.pdb
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.genruntimeconfig.cache
+C:\Users\hesim\Desktop\BackEndProject\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CopyComplete
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.deps.json
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.json
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.dev.json
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.dll
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.pdb
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.dll
+D:\Code Academy\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.AssemblyReference.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfoInputs.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfo.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CoreCompileInputs.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.input.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.output.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorCoreGenerate.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Event\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BlogPartial.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cs
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.dll
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.pdb
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.genruntimeconfig.cache
+D:\Code Academy\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.deps.json
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.json
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.dll
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.pdb
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.dll
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\bin\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.input.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.TagHelpers.output.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorCoreGenerate.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BlogPartial.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.Views.pdb
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.dll
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.pdb
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - Ministry of Education SABAH Groups\Desktop\EduHome-master\BackEndProject\obj\Debug\netcoreapp2.1\BackEndProject.csproj.CopyComplete
